@@ -2,7 +2,12 @@ Hi, I'm Asil 👋!
 *A passionate developer with a background in robotics, AI, and software engineering.*
 
 # 💫 About Me:
-💻 I work with Python, JavaScript (React/Node), Java, C#, C++, PHP, and modern web technologies.<br>🤖 Programming & Electronics member of FRC Team 6429 – 4th Dimension, building advanced software and robotics systems.<br>🚀 Passionate about AI, backend systems, web development, and creating technology that makes a real difference.
+🎓 High school student with extensive experience in robotics, AI, and software development
+🤖 Member of FRC Team 6429 – 4th Dimension, active in Programming & Electronics subteam
+💡 Built AI & robotics systems spanning computer vision, simulations, gesture recognition, and real-time applications
+🌍 Participant in national and internatianol hackathons like NASA International Space Apps Challenge | IZTECH “Tasarla Yap Yarıştır”
+🔬 Currently exploring ROS, AI, computer vision, and web/backend development
+
 # 🏆 Awards & Projects
 
 - 🧠 **TEKNOFEST 2025 – Barrier-Free Living Technologies**  
