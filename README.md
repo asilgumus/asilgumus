@@ -9,7 +9,7 @@
 🔬 Currently exploring ROS, AI, computer vision, and web/backend development
 
 
-# 🏆 Awards & Projects
+## 🏆 Awards & Projects
 
 - 🧠 **TEKNOFEST 2025 – Barrier-Free Living Technologies**  
   10th place | *Turkish Sign Language Finger Alphabet Translator (FLOW)*
