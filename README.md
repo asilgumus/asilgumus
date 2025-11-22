@@ -28,7 +28,7 @@ Hi, I'm Asil 👋!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asildgm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asil-doğan-gümüş-316291285) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asildogangumus@gmail.com) 
-<h2 style="color:#1E90FF"> # ⚙️ Tech Stack</h2>
+<h2 style="background-color:#1E90FF; color:white; padding:5px 10px; border-radius:5px;">⚙️ Tech Stack</h2>
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
