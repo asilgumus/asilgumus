@@ -1,5 +1,5 @@
-Hi, I'm Asil 👋!  
-*A passionate developer with a background in robotics, AI, and software engineering.*
+<h1 align="center"> Hi, I'm Asil 👋!  </h1>
+<p align="center">*A passionate developer with a background in robotics, AI, and software engineering.*</p>
 
 # 💫 About Me:
 🎓 High school student with extensive experience in robotics, AI, and software development
