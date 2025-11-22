@@ -27,8 +27,6 @@
   Regional 2nd Place | *AntiDote*
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asildgm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asil-doğan-gümüş-316291285) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asildogangumus@gmail.com) 
 ### ⚙️ Tech Stack
 
 ### 💻 Programming Languages
@@ -73,6 +71,11 @@
   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
   ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+
+##£ 🌐 Let's Connect:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asildgm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asil-doğan-gümüş-316291285) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asildogangumus@gmail.com) 
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=asilgumus&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
