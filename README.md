@@ -2,11 +2,12 @@
 <p align="center">*A passionate developer with a background in robotics, AI, and software engineering.*</p>
 
 # 💫 About Me:
-🎓 High school student with extensive experience in robotics, AI, and software development
-🤖 Member of FRC Team 6429 – 4th Dimension, active in Programming & Electronics subteam
-💡 Built AI & robotics systems spanning computer vision, simulations, gesture recognition, and real-time applications
-🌍 Participant in national and internatianol hackathons like NASA International Space Apps Challenge | IZTECH “Tasarla Yap Yarıştır”
+🎓 High school student with extensive experience in robotics, AI, and software development<br>
+🤖 Member of FRC Team 6429 – 4th Dimension, active in Programming & Electronics subteam<br>
+💡 Built AI & robotics systems spanning computer vision, simulations, gesture recognition, and real-time applications<br>
+🌍 Participant in national and international hackathons like NASA International Space Apps Challenge | IZTECH “Tasarla Yap Yarıştır”<br>
 🔬 Currently exploring ROS, AI, computer vision, and web/backend development
+
 
 # 🏆 Awards & Projects
 
