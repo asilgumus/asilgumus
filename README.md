@@ -12,17 +12,8 @@
 ## 🏆 Awards & Projects
 
 - 🧠 **TEKNOFEST 2025 – Barrier-Free Living Technologies**  
-  10th place | *Turkish Sign Language Finger Alphabet Translator (FLOW)*
-
-- ✈️ **TEKNOFEST 2025 – Flying Car Simulation Competition (High School Level)**  
-  Reached Final Design Report (FTR) Stage | *AEROVISION*
-
-- 🤖 **TEKNOFEST 2025 – RoboLeague (High School Level)**  
-  Reached Final Design Report (FTR) Stage | *Quantum Quake*
-
-- 🌱 **TEKNOFEST 2025 – Agricultural Technologies Competition (High School Level)**  
-  Reached Final Design Report (FTR) Stage | *WeatherTech*
-
+  10th place | *Turkish Sign Language Finger Alphabet Translator (FLOW)
+  
 - 🚀 **İZTECH “Tasarla Yap Yarıştır”**  
   Regional 2nd Place | *AntiDote*
 
