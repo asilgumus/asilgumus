@@ -8,6 +8,8 @@
 🌍 Participant in national and international hackathons like NASA International Space Apps Challenge | IZTECH “Tasarla Yap Yarıştır”<br>
 🔬 Currently exploring ROS, AI, computer vision, and web/backend development
 
+
+
 ### ⚙️ Tech Stack
 
 ### 💻 Programming Languages
