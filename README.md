@@ -8,16 +8,6 @@
 🌍 Participant in national and international hackathons like NASA International Space Apps Challenge | IZTECH “Tasarla Yap Yarıştır”<br>
 🔬 Currently exploring ROS, AI, computer vision, and web/backend development
 
-
-## 🏆 Awards & Projects
-
-- 🧠 **TEKNOFEST 2025 – Barrier-Free Living Technologies**  
-  10th place | *Turkish Sign Language Finger Alphabet Translator (FLOW)
-  
-- 🚀 **İZTECH “Tasarla Yap Yarıştır”**  
-  Regional 2nd Place | *AntiDote*
-
-
 ### ⚙️ Tech Stack
 
 ### 💻 Programming Languages
