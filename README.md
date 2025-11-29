@@ -61,15 +61,20 @@
 
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=asilgumus&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
+![Stats](https://github-readme-stats.vercel.app/api?username=asilgumus&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilgumus&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+### 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asilgumus&theme=gruvbox&layout=compact&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=60)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asilgumus&theme=default" alt="GitHub Streak" />
+### 🚀 Streak
+![Streak](https://streak-stats.demolab.com?user=asilgumus&theme=gruvbox&hide_border=true)
 
-## GitHub Activity Graph
+### 📌 Pinned Repo
+![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=asilgumus&repo=Cicekli-Game-Dev-Website&theme=gruvbox&hide_border=true)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asilgumus&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+### 📘 Profile Details
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asilgumus&theme=gruvbox)
+
 
 
 
