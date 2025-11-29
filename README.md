@@ -61,19 +61,24 @@
 
 
 # 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=asilgumus&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true)
+<!-- GitHub Stats: Cloudflare Fork -->
+![Stats](https://github-readme-stats.zcy.dev/api?username=asilgumus&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true)
 
 ### 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asilgumus&theme=gruvbox&layout=compact&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=60)
+![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs/?username=asilgumus&theme=gruvbox&layout=compact&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=60)
 
-### 🚀 Streak
+### 🚀 Pinned Repository
+![Pinned Repo](https://github-readme-stats.zcy.dev/api/pin/?username=asilgumus&repo=Cicekli-Game-Dev-Website&theme=gruvbox&hide_border=true)
+
+### 🌟 Streak Stats
 ![Streak](https://streak-stats.demolab.com?user=asilgumus&theme=gruvbox&hide_border=true)
 
-### 📌 Pinned Repo
-![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=asilgumus&repo=Cicekli-Game-Dev-Website&theme=gruvbox&hide_border=true)
-
-### 📘 Profile Details
+### 📘 Profile Summary
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asilgumus&theme=gruvbox)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asilgumus&theme=gruvbox)
+![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asilgumus&theme=gruvbox)
+![Most Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asilgumus&theme=gruvbox)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asilgumus&theme=gruvbox)
 
 
 
