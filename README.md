@@ -63,8 +63,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=asilgumus&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=60)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=asilgumus&theme=gruvbox&hide_border=true&cache_seconds=60)<br/>
-![]([url](https://github-readme-stats.vercel.app/api/top-langs/))
-
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=asilgumus&theme=gruvbox&layout=compact&hide_border=true&cache_seconds=7200
+)
 
 
 ---
