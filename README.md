@@ -61,17 +61,18 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=asilgumus&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=asilgumus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true)
 
 ### 📈 Top Languages
-![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs?username=asilgumus&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs?username=asilgumus&layout=compact&theme=dracula)
 
 ### 🔥 Streak Stats
-![Streak](https://nirzak-streak-stats.vercel.app/?user=asilgumus&theme=radical&hide_border=true)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=asilgumus&theme=dracula&hide_border=true)
 
 ### 📘 Profile Summary
-![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asilgumus&theme=radical)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asilgumus&theme=radical)
+![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asilgumus&theme=dracula)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asilgumus&theme=dracula)
+
 
 
 
