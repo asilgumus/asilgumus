@@ -64,8 +64,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=asilgumus&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=60)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=asilgumus&theme=gruvbox&hide_border=true&cache_seconds=60)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asilgumus&theme=gruvbox&layout=compact&hide_border=true&cache_seconds=7200)]
-![](https://github-readme-stats-git-master-asil-dogan-gumuss-projects.vercel.app/api/top-langs/?username=asilgumus&theme=gruvbox&hide_border=true&layout=compact&cache_seconds=7200
-)
+![](https://github-readme-stats-git-master-asil-dogan-gumuss-projects.vercel.app/api/top-langs/?username=asilgumus&theme=gruvbox&hide_border=true&layout=compact&cache_seconds=7200)
+
 
 
 ---
