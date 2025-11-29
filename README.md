@@ -61,22 +61,12 @@
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asilgumus&show_icons=true&theme=gruvbox&hide_border=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asilgumus&show_icons=true&locale=en&layout=compact" alt="asilgumus" /></p>
 
-## Top Languages
-[![Top Languages](https://camo.githubusercontent.com/9dc169a23a842728099d607aae013109ca4a749229b002a104bff63d4b2f0fb9/68747470733a2f2f6e69727a6b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d6163696c676d756d757373267468656d653d67727576626f7826686964655f626f726465723d74727565)](https://github.com/asilgumus?tab=repositories)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asilgumus&show_icons=true&locale=en" alt="asilgumus" /></p>
 
-## Pinned Repo
-![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=asilgumus&repo=VerbatimX&theme=gruvbox)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asilgumus&" alt="asilgumus" /></p>
 
-## Extra Stats
-![Extra Stats](https://github-readme-stats.vercel.app/api?username=asilgumus&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox&hide_border=true&show=prs_merged,prs_merged_percentage,issues,followers)
-
-## GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asilgumus&theme=gruvbox&hide_border=true)
-
-## Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=asilgumus&theme=github&area=true)
 
 
 
