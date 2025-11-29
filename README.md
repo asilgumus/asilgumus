@@ -71,11 +71,8 @@
 ![Streak](https://streak-stats.demolab.com?user=asilgumus&theme=gruvbox&hide_border=true)
 
 ### 📘 Profile Summary
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asilgumus&theme=gruvbox)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asilgumus&theme=gruvbox)
 ![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asilgumus&theme=gruvbox)
-![Most Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asilgumus&theme=gruvbox)
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asilgumus&theme=gruvbox)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asilgumus&theme=gruvbox)
 
 
 
