@@ -59,17 +59,20 @@
 ### 🌐 Let's Connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asildgm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asil-doğan-gümüş-316291285) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asildogangumus@gmail.com) 
 
-
 # 📊 GitHub Stats
 
-<img src="https://github-readme-stats.zcy.dev/api?username=asilgumus&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true" width="300"/>
-<img src="https://github-readme-stats.zcy.dev/api/top-langs?username=asilgumus&layout=compact&theme=gruvbox" width="300"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=asilgumus&theme=gruvbox&hide_border=true" width="300"/>
+![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=asilgumus&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true)
 
+### 📈 Top Languages
+![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs?username=asilgumus&layout=compact&theme=gruvbox)
 
+### 🔥 Streak Stats
+![Streak](https://nirzak-streak-stats.vercel.app/?user=asilgumus&theme=transparent&hide_border=true)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asilgumus&theme=gruvbox" width="300"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asilgumus&theme=gruvbox" width="300"/>
+### 📘 Profile Summary
+![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asilgumus&theme=gruvbox)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asilgumus&theme=gruvbox)
+
 
 
 ---
