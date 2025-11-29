@@ -61,11 +61,15 @@
 
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asilgumus&show_icons=true&locale=en&layout=compact" alt="asilgumus" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=asilgumus&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asilgumus&show_icons=true&locale=en" alt="asilgumus" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilgumus&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asilgumus&" alt="asilgumus" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asilgumus&theme=default" alt="GitHub Streak" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asilgumus&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
 
 
