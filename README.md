@@ -61,17 +61,17 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=asilgumus&show_icons=true&theme=transparent&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=asilgumus&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
 ### 📈 Top Languages
-![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs?username=asilgumus&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs?username=asilgumus&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🔥 Streak Stats
-![Streak](https://nirzak-streak-stats.vercel.app/?user=asilgumus&theme=dark&hide_border=true)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=asilgumus&theme=tokyonight&hide_border=true)
 
 ### 📘 Profile Summary
-![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asilgumus&theme=dark)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asilgumus&theme=dark)
+![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asilgumus&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asilgumus&theme=tokyonight)
 
 
 
