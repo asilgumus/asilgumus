@@ -61,17 +61,18 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=asilgumus&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=asilgumus&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true)
 
 ### 📈 Top Languages
-![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs?username=asilgumus&layout=compact&theme=gruvbox)
+![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs?username=asilgumus&layout=compact&theme=transparent)
 
 ### 🔥 Streak Stats
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=asilgumus&theme=transparent&hide_border=true)
 
 ### 📘 Profile Summary
-![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asilgumus&theme=gruvbox)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asilgumus&theme=gruvbox)
+![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asilgumus&theme=transparent)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asilgumus&theme=transparent)
+
 
 
 
