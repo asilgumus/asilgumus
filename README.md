@@ -65,7 +65,7 @@
 ![Stats](https://github-readme-stats.zcy.dev/api?username=asilgumus&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true)
 
 ### 📊 Top Languages
-![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs/?username=asilgumus&theme=gruvbox&layout=compact&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=60)
+![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs?username=asilgumus)
 
 ### 🚀 Pinned Repository
 ![Pinned Repo](https://github-readme-stats.zcy.dev/api/pin/?username=asilgumus&repo=Cicekli-Game-Dev-Website&theme=gruvbox&hide_border=true)
