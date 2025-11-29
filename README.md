@@ -68,7 +68,7 @@
 ![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs?username=asilgumus&layout=compact)
 
 ### 🌟 Streak Stats
-![Streak](https://corsproxy.io/?url=https://streak-stats.demolab.com?user=asilgumus&theme=gruvbox)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=asilgumus&theme=transparent&hide_border=true)
 
 ### 📘 Profile Summary
 ![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asilgumus&theme=gruvbox)
