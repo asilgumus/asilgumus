@@ -62,13 +62,13 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.zcy.dev/api?username=asilgumus&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true" width="300"/>
   <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=asilgumus&layout=compact&theme=gruvbox" width="300"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=asilgumus&theme=gruvbox&hide_border=true" width="300"/>
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asilgumus&theme=gruvbox" width="300"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asilgumus&theme=gruvbox" width="300"/>
 </p>
