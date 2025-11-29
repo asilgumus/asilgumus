@@ -61,7 +61,7 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=asilgumus&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=asilgumus&show_icons=true&theme=dark&count_private=true&hide_border=true)
 
 ### 📈 Top Languages
 ![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs?username=asilgumus&layout=compact&theme=dark&hide_border=true)
