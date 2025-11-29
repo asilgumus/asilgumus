@@ -64,7 +64,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asilgumus&show_icons=true&theme=gruvbox&hide_border=true)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asilgumus&layout=compact&theme=gruvbox&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asilgumus&theme=gruvbox&count_private=true&hide_border=true&layout=compact&include_all_commits=true&cache_seconds=60)
 
 ## Pinned Repo
 ![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=asilgumus&repo=VerbatimX&theme=gruvbox)
