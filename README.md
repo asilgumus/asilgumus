@@ -68,15 +68,11 @@
 ![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs?username=asilgumus&layout=compact)
 
 ### 🌟 Streak Stats
-![Streak](https://streak-stats.demolab.com?user=asilgumus&theme=gruvbox)
+![Streak](https://corsproxy.io/?url=https://streak-stats.demolab.com?user=asilgumus&theme=gruvbox)
 
 ### 📘 Profile Summary
 ![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asilgumus&theme=gruvbox)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asilgumus&theme=gruvbox)
-
-
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=asilgumus&icon=0&color=0)](https://visitcount.itsvg.in)
