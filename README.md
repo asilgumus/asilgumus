@@ -64,7 +64,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asilgumus&show_icons=true&theme=gruvbox&hide_border=true)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asilgumus&theme=gruvbox&count_private=true&hide_border=true&layout=compact&include_all_commits=true&cache_seconds=60)
+[![Top Languages](https://camo.githubusercontent.com/9dc169a23a842728099d607aae013109ca4a749229b002a104bff63d4b2f0fb9/68747470733a2f2f6e69727a6b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d6163696c676d756d757373267468656d653d67727576626f7826686964655f626f726465723d74727565)](https://github.com/asilgumus?tab=repositories)
 
 ## Pinned Repo
 ![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=asilgumus&repo=VerbatimX&theme=gruvbox)
