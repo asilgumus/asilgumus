@@ -61,10 +61,22 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=asilgumus&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=60)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=asilgumus&theme=gruvbox&hide_border=true&cache_seconds=60)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asilgumus&theme=gruvbox&layout=compact&hide_border=true&cache_seconds=7200)]
-![](https://img.shields.io/github/languages/top/asilgumus/<repo-ismi>?style=for-the-badge)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asilgumus&show_icons=true&theme=gruvbox&hide_border=true)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asilgumus&layout=compact&theme=gruvbox&hide_border=true)
+
+## Pinned Repo
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=asilgumus&repo=YOUR_REPO_NAME&theme=gruvbox)
+
+## Extra Stats
+![Extra Stats](https://github-readme-stats.vercel.app/api?username=asilgumus&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox&hide_border=true&show=prs_merged,prs_merged_percentage,issues,followers)
+
+## GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asilgumus&theme=gruvbox&hide_border=true)
+
+## Contribution Graph
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=asilgumus&theme=github&area=true)
 
 
 
