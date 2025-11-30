@@ -58,7 +58,7 @@
 
 ### 🌐 Let's Connect
 
-💬 If you have any questions regarding my projects or general info, feel free to reach me on **LinkedIn**:
+💬 If you have any questions regarding my projects or general info, you can reach me through the following platforms:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asildgm)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asil-do%C4%9Fan-g%C3%BCm%C3%BC%C5%9F-316291285)  
