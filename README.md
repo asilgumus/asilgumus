@@ -6,7 +6,7 @@
 🤖 Member of FRC Team 6429 – 4th Dimension, active in Programming & Electronics subteam<br>
 💡 Built AI & robotics systems spanning computer vision, simulations, gesture recognition, and real-time applications<br>
 🌍 Participant in national and international hackathons like NASA International Space Apps Challenge | IZTECH “Tasarla Yap Yarıştır”<br>
-🔬 Currently exploring ROS, AI, computer vision, and web/backend development
+🔬 Currently exploring ROS, AI, CV, NLP and web/backend development
 
 
 -------------------
