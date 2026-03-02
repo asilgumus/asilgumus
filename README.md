@@ -26,8 +26,10 @@
 ### 📊 Data Science & ML
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,scikit-learn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48"/>
+
 </p>
 
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
