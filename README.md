@@ -1,3 +1,5 @@
+<div align="center">
+
 <h1 align="center"> Hi, I'm Asil 👋!  </h1>
 <p align="center">*A passionate developer with a background in robotics, AI, and software engineering.*</p>
 
@@ -8,8 +10,6 @@
 🌍 Participant in national and international hackathons like NASA International Space Apps Challenge | IZTECH “Tasarla Yap Yarıştır”<br>
 🔬 Currently exploring ROS, AI, CV, NLP and web/backend development
 
-
--------------------
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 ## ⚙️ Tech Stack
@@ -85,3 +85,4 @@
 [![](https://visitcount.itsvg.in/api?id=asilgumus&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">🚀 Always building, always learning!</p>
+</div>
