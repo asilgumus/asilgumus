@@ -6,13 +6,11 @@
 
 
 # 💫 About Me:
-<div align="left">
 🎓 High school student with extensive experience in robotics, AI, and software development<br>
 🤖 Member of FRC Team 6429 – 4th Dimension, active in Programming & Electronics subteam<br>
 💡 Built AI & robotics systems spanning computer vision, simulations, gesture recognition, and real-time applications<br>
 🌍 Participant in national and international hackathons like NASA International Space Apps Challenge | IZTECH “Tasarla Yap Yarıştır”<br>
 🔬 Currently exploring ROS, AI, CV, NLP and web/backend development
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
