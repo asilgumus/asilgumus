@@ -12,20 +12,21 @@
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## ⚙️ Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,cs,java,js&theme=dark" />
 </p>
 
 
-### ⚙️ Web Development & Frameworks
+### Web Development & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind,flask,nodejs,vite&theme=dark" />
 </p>
   
-### 📊 Data Science & ML
+### Data Science & ML
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
@@ -34,26 +35,26 @@
 </p>
 
   
-### 🤖 Robotics & Embedded
+### Robotics & Embedded
 <p>
   <img src="https://skillicons.dev/icons?i=arduino,ros&theme=dark" />
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark" />
 </p>
 
-### 🧩 Others
+### Others
 <p>
   <img src="https://skillicons.dev/icons?i=ps&theme=dark" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🌐 Let's Connect
+## Let's Connect
 
-### 💬 If you have any questions regarding my projects or general info, you can reach me through the following platforms:
+### If you have any questions regarding my projects or general info, you can reach me through the following platforms:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asildgm) &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asil-do%C4%9Fan-g%C3%BCm%C3%BC%C5%9F-316291285) &nbsp;&nbsp;
