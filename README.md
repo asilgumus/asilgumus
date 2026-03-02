@@ -20,7 +20,7 @@
 
 ### ⚙️ Web Development & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind,flask,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind,flask,nodejs,vite&theme=dark" />
 </p>
   
 ### 📊 Data Science & ML
