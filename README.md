@@ -73,7 +73,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asilgumus&bg_color=0d1117&color=6366f1&line=6366f1&point=f97316&area=false&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asilgumus&bg_color=0d1117&color=6366f1&line=6366f1&point=f97316&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
