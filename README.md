@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Asil%20Doğan%20Gümüş&fontSize=38&color=0:6A4FFF,100:3A6EFF&textColor=FFFFFF" width="100%"/>
-<h1 align="center"> Hi, I'm Asil 👋!  </h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Asil%20Doğan%20Gümüş&fontSize=42&color=0:6A4FFF,100:3A6EFF&textColor=FFFFFF" width="100%"/>
+
 <p align="center">*A passionate developer with a background in robotics, AI, and software engineering.*</p>
 
 
