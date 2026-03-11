@@ -64,17 +64,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asilgumus&show_icons=true&theme=default&hide_border=true&bg_color=0b0f3f&title_color=7f00ff&icon_color=7f00ff&text_color=6a5acd" height="165" alt="Github Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilgumus&layout=compact&theme=default&hide_border=true&bg_color=0b0f3f&title_color=7f00ff&text_color=6a5acd" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=asilgumus&show_icons=true&theme=default&hide_border=true&bg_color=1e1b3c&title_color=8a2be2&icon_color=8a2be2&text_color=7f7fff" height="165" alt="Github Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilgumus&layout=compact&theme=default&hide_border=true&bg_color=1e1b3c&title_color=8a2be2&text_color=7f7fff" height="165" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asilgumus&theme=default&hide_border=true&background=0b0f3f&stroke=6a5acd&ring=7f00ff&fire=f97316&currStreakLabel=7f00ff" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asilgumus&theme=default&hide_border=true&background=1e1b3c&stroke=7f7fff&ring=8a2be2&fire=f97316&currStreakLabel=8a2be2" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asilgumus&bg_color=0b0f3f&color=7f00ff&line=6a5acd&point=f97316&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asilgumus&bg_color=1e1b3c&color=8a2be2&line=7f7fff&point=f97316&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
