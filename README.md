@@ -63,17 +63,20 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=asilgumus&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alphan3231&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" height="165" alt="Github Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphan3231&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" height="165" alt="Top Languages"/>
+</div>
 
-### 📈 Top Languages
-![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs?username=asilgumus&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphan3231&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakLabel=6366F1" alt="GitHub Streak"/>
+</div>
 
-### 🔥 Streak Stats
-![Streak](https://nirzak-streak-stats.vercel.app/?user=asilgumus&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphan3231&bg_color=0d1117&color=6366f1&line=6366f1&point=f97316&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+</div>
 
-### 📘 Profile Summary
-![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asilgumus&theme=tokyonight)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asilgumus&theme=tokyonight)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 
 
