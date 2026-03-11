@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A4FFF,100:3A6EFF&height=180&section=header&text=Asil%20Doğan%20Gümüş&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=*A%20passionate%20developer%20with%20a%20background%20in%20robotics,%20AI,%20and%20software%20engineering.*&descSize=16&descAlignY=52" width="100%"/>
-<p align="center">*A passionate developer with a background in robotics, AI, and software engineering.*</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A4FFF,100:3A6EFF&height=180&section=header&text=Asil%20Doğan%20Gümüş&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20Full%20Stack%20Developer%20%7C%20Robotics&descSize=16&descAlignY=52" width="100%"/>
 
 
 
