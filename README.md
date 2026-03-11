@@ -73,8 +73,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asilgumus&theme=tokyonight&hide_border=true&area=false" width="100%" alt="Activity Graph"/>
-</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asilgumus&theme=tokyonight&hide_border=true&area=false&background=00000000" width="100%" alt="Activity Graph"/>
+</div>>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
