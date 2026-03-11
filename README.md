@@ -19,7 +19,7 @@
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cs,java,js,flutter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cs,java,js,flutter,dart&theme=dark" />
 </p>
 
 
