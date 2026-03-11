@@ -64,16 +64,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asilgumus&show_icons=true&theme=default&hide_border=true&bg_color=101a44&title_color=6f42c1&icon_color=6f42c1&text_color=8fbfff" height="165" alt="Github Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilgumus&layout=compact&theme=default&hide_border=true&bg_color=101a44&title_color=6f42c1&text_color=8fbfff" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=asilgumus&show_icons=true&theme=nightowl&hide_border=true" height="165" alt="Github Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilgumus&layout=compact&theme=nightowl&hide_border=true" height="165" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asilgumus&theme=default&hide_border=true&background=101a44&stroke=8fbfff&ring=6f42c1&fire=f97316&currStreakLabel=6f42c1" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asilgumus&theme=nightowl&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asilgumus&bg_color=101a44&color=6f42c1&line=8fbfff&point=f97316&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asilgumus&theme=nightowl&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
