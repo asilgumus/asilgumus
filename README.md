@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Asil%20Doğan%20Gümüş&fontSize=42&color=gradient&customColorList=30,27,24,21,18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Asil%20Doğan%20Gümüş&fontSize=42&color=gradient&customColorList=30,24,18,12" width="100%"/>
 <h1 align="center"> Hi, I'm Asil 👋!  </h1>
 <p align="center">*A passionate developer with a background in robotics, AI, and software engineering.*</p>
 
