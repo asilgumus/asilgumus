@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A4FFF,100:3A6EFF&height=180&section=header&text=Asil%20Doğan%20Gümüş&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20Full%20Stack%20Developer%20%7C%20Robotics&descSize=16&descAlignY=52" width="100%"/>
 
-
-
 # 💫 About Me:
 🎓 High school student with extensive experience in robotics, AI, and software development<br>
 🤖 Member of FRC Team 6429 – 4th Dimension, active in Programming & Electronics subteam<br>
