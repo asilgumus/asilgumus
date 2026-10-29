@@ -75,24 +75,28 @@ def esc(value):
 
 
 def make_overview(total_repos: int, stars: int, followers: int, lang_count: int):
-    stats = [
-        ("PUBLIC PROJECTS", total_repos),
-        ("REPOSITORY STARS", stars),
-        ("FOLLOWERS", followers),
-        ("LANGUAGES", lang_count),
+    """Curated engineering highlights, rather than vanity metrics."""
+    projects = [
+        ("01", "AETHER OS", "Systems programming", "Rust  /  x86-64"),
+        ("02", "CYBERRCORE", "Autonomous robotics", "Embedded  /  Control"),
+        ("03", "NEUROMETRIC", "Applied machine learning", "Python  /  3D CNN"),
     ]
-    sections = []
-    for i, (label, value) in enumerate(stats):
-        x = 42 + i * 206
-        sections.append(f'<text x="{x}" y="77" font-size="28" font-weight="700" fill="#eef2ff">{int(value):,}</text>')
-        sections.append(f'<text x="{x}" y="104" font-size="12" letter-spacing="1.1" fill="#8b949e">{label}</text>')
-        if i < 3:
-            sections.append(f'<line x1="{x + 174}" y1="58" x2="{x + 174}" y2="108" stroke="#30363d"/>')
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="840" height="140" viewBox="0 0 840 140" font-family="Segoe UI, Arial, sans-serif" role="img" aria-label="GitHub overview: {total_repos} public projects, {stars} repository stars, {followers} followers, {lang_count} languages">
-<rect x="1" y="1" width="838" height="138" rx="14" fill="#0d1117" stroke="#30363d"/>
-<rect x="1" y="1" width="838" height="4" rx="2" fill="#8b7cf6"/>
-<text x="42" y="35" fill="#a5a9c2" font-size="13" font-weight="600" letter-spacing="1.4">GITHUB / AT A GLANCE</text>
-{''.join(sections)}
+    parts = []
+    for i, (number, name, subtitle, stack) in enumerate(projects):
+        x = 40 + i * 267
+        parts.extend([
+            f'<text x="{x}" y="83" fill="#8b7cf6" font-size="13" font-weight="700">{number} /</text>',
+            f'<text x="{x}" y="115" fill="#f0f3ff" font-size="21" font-weight="700">{esc(name)}</text>',
+            f'<text x="{x}" y="142" fill="#c2c7d8" font-size="14">{esc(subtitle)}</text>',
+            f'<text x="{x}" y="169" fill="#8b949e" font-size="12">{esc(stack)}</text>',
+        ])
+        if i < 2:
+            parts.append(f'<line x1="{x + 241}" y1="74" x2="{x + 241}" y2="173" stroke="#30363d"/>')
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="840" height="205" viewBox="0 0 840 205" font-family="Segoe UI, Arial, sans-serif" role="img" aria-label="Selected engineering work: AETHER OS, CYBERRCORE, NeuroMetric">
+<rect x="1" y="1" width="838" height="203" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text x="40" y="37" fill="#e6edf3" font-size="19" font-weight="700">Selected engineering work</text>
+<text x="40" y="56" fill="#8b949e" font-size="12">Systems  /  Robotics  /  Applied AI</text>
+{''.join(parts)}
 </svg>'''
 
 
@@ -107,10 +111,13 @@ def make_language_card(language_counts: collections.Counter, total: int):
         color = COLORS.get(language, "#8b7cf6")
         parts.append(f'<circle cx="48" cy="{y - 5}" r="6" fill="{color}"/>')
         parts.append(f'<text x="66" y="{y}" font-size="14" font-weight="600" fill="#e6edf3">{esc(language)}</text>')
-        parts.append(f'<rect x="251" y="{y - 12}" width="444" height="11" rx="5.5" fill="#21262d"/>')
-        parts.append(f'<rect x="251" y="{y - 12}" width="{444 * min(percent, 100)/100:.2f}" height="11" rx="5.5" fill="{color}"/>')
+        # Keep the repository count and percentage on the SAME baseline.
+        # Reserve separate horizontal columns so no label can slip below its bar.
+        bar_width = 415
+        parts.append(f'<rect x="251" y="{y - 12}" width="{bar_width}" height="11" rx="5.5" fill="#21262d"/>')
+        parts.append(f'<rect x="251" y="{y - 12}" width="{bar_width * min(percent, 100)/100:.2f}" height="11" rx="5.5" fill="{color}"/>')
+        parts.append(f'<text x="690" y="{y}" font-size="11.5" fill="#8b949e" text-anchor="start">{count} repos</text>')
         parts.append(f'<text x="805" y="{y}" font-size="14" fill="#e6edf3" font-weight="700" text-anchor="end">{percent:.1f}%</text>')
-        parts.append(f'<text x="732" y="{y + 16}" font-size="10.5" fill="#8b949e" text-anchor="middle">{count} repos</text>')
     footer_y = height - 20
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="840" height="{height}" viewBox="0 0 840 {height}" font-family="Segoe UI, Arial, sans-serif" role="img" aria-label="Share of public code repositories containing each programming language">
 <rect x="1" y="1" width="838" height="{height - 2}" rx="14" fill="#0d1117" stroke="#30363d"/>
