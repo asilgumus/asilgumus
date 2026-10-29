@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&duration=1300&pause=2400&color=FFFFFF&center=true&vCenter=true&width=620&height=68&lines=Asil+Do%C4%9Fan+G%C3%BCm%C3%BC%C5%9F&repeat=false" alt="Asil Doğan Gümüş" />
@@ -5,6 +6,8 @@
 ### 🇹🇷 High school student building products.
 
 **Software Engineering · Artificial Intelligence · Robotics**
+
+<br>
 
 <p align="center">
   <a href="https://linkedin.com/in/asil-do%C4%9Fan-g%C3%BCm%C3%BC%C5%9F-316291285"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="27" align="middle" alt="LinkedIn" /></a>&nbsp;&nbsp;
@@ -29,7 +32,9 @@
 
 <div align="center">
 
-<img src="./assets/overview.svg" width="92%" alt="GitHub overview" />
+<img src="https://streak-stats.demolab.com?user=asilgumus&theme=tokyonight&hide_border=true" width="495" alt="GitHub Streak" />
+
+<br>
 
 <img src="./assets/languages.svg" width="92%" alt="Languages across projects" />
 
