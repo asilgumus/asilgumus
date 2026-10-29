@@ -1,0 +1,37 @@
+
+name: Refresh profile cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '31 5 * * 1'
+
+permissions:
+  contents: write
+
+jobs:
+  build-cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate overview and language statistics
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_cards.py
+
+      - name: Commit changed SVGs
+        run: |
+          git add assets/overview.svg assets/languages.svg
+          if git diff --cached --quiet; then
+            echo 'No changes'
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' \
+              -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+              commit -m 'chore: refresh GitHub profile statistics'
+          git push
