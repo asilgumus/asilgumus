@@ -41,7 +41,7 @@
 <br><br><br>
 
 <img
-  src="./assets/languages.svg"
+  src="./assets/languages.svg?v=2"
   width="92%"
   alt="Languages Across Projects"
 />
