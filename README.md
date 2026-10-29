@@ -32,10 +32,18 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=asilgumus&theme=tokyonight&hide_border=true" width="495" alt="GitHub Streak" />
+<img
+  src="https://streak-stats.demolab.com?user=asilgumus&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=818CF8&sideLabels=8B949E&dates=8B949E&sideNums=79A6FF&currStreakNum=C4B5FD"
+  width="65%"
+  alt="GitHub Contribution Streak"
+/>
 
-<br>
+<br><br><br>
 
-<img src="./assets/languages.svg" width="92%" alt="Languages across projects" />
+<img
+  src="./assets/languages.svg"
+  width="92%"
+  alt="Languages Across Projects"
+/>
 
 </div>
